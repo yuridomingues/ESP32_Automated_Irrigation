@@ -62,7 +62,7 @@ Contributions are welcome! To contribute:
 ## Acknowledgments
 A special thank you to the people I did this project with
 
-- [**Sneeker**](hhttps://github.com/TechSneeker).
+- [**Sneeker**](https://github.com/TechSneeker).
 - [**Ricardo Andrade**](https://github.com/ric-cfan).
 
 ---
